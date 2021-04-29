@@ -1,2 +1,2 @@
 #### 链接文件
-点击[README]前往README(./README.md)
+点击前往README[README](./README.md)
